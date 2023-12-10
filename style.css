@@ -1,0 +1,17 @@
+* {
+  background-color: #3a4363;
+  color: #ffffff;
+}
+
+.code {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 0 auto;
+  row-gap: 2rem;
+  word-break: break-all;
+}
+
+h2 {
+  transform: translateY(2rem);
+}
